@@ -2,7 +2,7 @@
   "name": "zareeya",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "descriptigiton": "",
   "main": "index.js",
   "scripts": {
     "build": "cd frontend && npm install && npm run build",
